@@ -24,7 +24,7 @@ header h1 #seo {
     color: #d9dcd6;
 }
 
-/* Above code changes color of just a specific seciton of text. */
+/* Above code changes color of just a specific section of text. */
 
 header nav {
     padding-top: 15px;
@@ -39,6 +39,8 @@ header nav ul li {
     margin-left: 25px;
 }
 
+/* All the above rules that apply to the header or nav help style the header and navigation bar to make it easier for users to find specific sections of the website. */
+
 .links {
     color: #ffffff;
     text-decoration: none;
@@ -47,6 +49,8 @@ header nav ul li {
 p {
     font-size: 16px;
 }
+
+/* The above rule set makes it so all paragraphs have a font size of 16 pixels. */
 
 h2 {
     margin-bottom: 20px;
@@ -62,6 +66,8 @@ h2 {
     background-position: center;
 }
 
+/* The above rule set helps style the larger background image */
+
 .float-left {
     float: left;
     margin-right: 25px;
@@ -71,6 +77,8 @@ h2 {
     float: right;
     margin-left: 25px;
 }
+
+/* The rule sets applied to the classes float-left and float-right help format the images these classes are asigned to so they'll appear beside each other */
 
 .content {
     width: 75%;
@@ -90,6 +98,14 @@ h2 {
     margin-bottom: 32px;
     color: #ffffff;
 }
+
+/* The above rule set helps format the siderbar on the website so that it is positioned properly, and has the right text formatting. */
+
+.benefits p {
+    margin-bottom: 32px;
+}
+
+/* The above rule set gives spacing to the paragraphs that appear in the sidebar. */
 
 .benefits h3 {
     margin-bottom: 10px;
@@ -111,6 +127,8 @@ h2 {
     color: #ffffff;
 }
 
+/* The above rule set positions and sets text format for the different sections within the content of the code. */
+
 .content img {
     max-height: 200px;
 }
@@ -125,3 +143,5 @@ footer {
 footer h2 {
     font-size: 20px;
 }
+
+/* The rule sets applied to the footer element help format the footer so it has the proper color and positioning, as well as proper text formatting */
