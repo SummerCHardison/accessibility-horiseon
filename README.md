@@ -7,7 +7,7 @@ This project is a web application about accessibilty, managing web resources, an
 # To application
 ![screen shot of application](assets/images/Screenshot.png)
 
-https://summerchardison.github.io/accessibility-horiseon/
+[https://summerchardison.github.io/accessibility-horiseon/](https://summerchardison.github.io/accessibility-horiseon/)
 
 # Credits
 Summer Hardison
